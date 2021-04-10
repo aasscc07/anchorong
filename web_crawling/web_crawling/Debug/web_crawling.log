@@ -1,0 +1,6 @@
+﻿  web_crawling.cpp
+D:\coding\c++\c++ dark\web_crawling\web_crawling\web_crawling.cpp(17,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\coding\c++\c++ dark\web_crawling\web_crawling\web_crawling.cpp(37,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\coding\c++\c++ dark\web_crawling\web_crawling\web_crawling.cpp(39,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\coding\c++\c++ dark\web_crawling\web_crawling\web_crawling.cpp(41,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  web_crawling.vcxproj -> D:\coding\c++\c++ dark\web_crawling\Debug\web_crawling.exe
