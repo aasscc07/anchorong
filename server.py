@@ -35,12 +35,10 @@ if __name__ == "__main__":
 # import socket
 # import time
 # server = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
-#18.220.144.38
-# host = socket.gethostbyaddr('ec2-18-220-144-38.us-east-2.compute.amazonaws.com')[0]
+# host = socket.gethostbyaddr('')[0]
 
 # server.bind((host,9000))
 # #서버의 아이피와 포트번호 지점
-# #ec2-18-220-144-38.us-east-2.compute.amazonaws.com
 # while True:
 
 #     server.listen(0)
